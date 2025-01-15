@@ -15,8 +15,48 @@ Answer:
 3. Execute the _main.py_ file by typing `python3 main.py` or other commands as per your system compatibility. {You can also run the file in any code editor / IDE}
 5. Select any option according to the answer you want as per _a, b, c_ parts of the question.
 6. That's it.
-<br>
-<br>
+
+Snapshot of the Terminal:
+```
+-------------------------------------------------------
+1. Employees worked for 7 consecutive days
+2. Employees with gap in range 1 to 10 between shifts
+3. Employees worked more than 14 hours in single shift
+Q. Exit
+: 1
+Name: Sparks, KeWWeMh | Position ID: WFS000101
+Name: SiWgh, JaspreeM | Position ID: WFS000424
+Name: CEreira Jr, JEse | Position ID: WFS000456
+Name: GAeWdia, JAaW CarXEs | Position ID: WFS000473
+
+-------------------------------------------------------
+1. Employees worked for 7 consecutive days
+2. Employees with gap in range 1 to 10 between shifts
+3. Employees worked more than 14 hours in single shift
+Q. Exit
+: 2
+Name: CaMaXaWE, CeghaW | Position ID: WFS000153
+Name: Xee, XaCar | Position ID: WFS000200
+Name: De Xa Cerda, IgWaciE | Position ID: WFS000318
+Name: CEreira Jr, JEse | Position ID: WFS000456
+Name: DeXgadiXXE REdarMe, ChrisMiaW S | Position ID: WFS000523
+Name: REdrigAez, GraWdEW AWgeX | Position ID: WFS000550
+
+-------------------------------------------------------
+1. Employees worked for 7 consecutive days
+2. Employees with gap in range 1 to 10 between shifts
+3. Employees worked more than 14 hours in single shift
+Q. Exit
+: 3
+Name: DeXgadiXXE REdarMe, ChrisMiaW S| Position ID: WFS000523
+
+-------------------------------------------------------
+1. Employees worked for 7 consecutive days
+2. Employees with gap in range 1 to 10 between shifts
+3. Employees worked more than 14 hours in single shift
+Q. Exit
+: Q
+```
 
 **Thank You**
 <hr>
