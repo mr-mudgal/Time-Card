@@ -16,6 +16,10 @@ Answer:
 5. Select any option according to the answer you want as per _a, b, c_ parts of the question.
 6. That's it.
 
+Excel Format:
+<img width="869" src="https://github.com/user-attachments/assets/2c13ad8c-c203-4116-8e9e-292f19b62c3d" />
+
+
 Snapshot of the Terminal:
 ```
 -------------------------------------------------------
